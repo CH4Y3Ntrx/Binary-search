@@ -1,0 +1,5 @@
+{
+  "name": "Binary Search Tree Visualizer with MariaDB",
+  "description": "A BST visualizer that persists tree data to a MariaDB database.",
+  "requestFramePermissions": []
+}
